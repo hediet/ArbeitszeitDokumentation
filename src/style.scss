@@ -1,0 +1,56 @@
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.calendar {
+
+}
+
+.gui {
+	margin: auto;
+	max-width: 800px;
+	width: 50%;
+}
+
+.templates > div {
+	float: left;
+	margin: 10px;
+}
+
+.template > div {
+	width: 100px;
+	height: 40px;
+	text-align: center;
+}
+
+.templates {
+	overflow: auto;
+}
+
+.text-value {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 28px;
+	dominant-baseline: central;
+}
+
+.Personalnummer {
+	font-size: 35px;
+}
+
+.formViewer {
+	width: 100%;
+}
+
+.selected-event {
+	background-color: blue !important;
+}
+
+.titleLabel {
+	margin-right: 10px;
+}
+
+.group {
+	border: black 1px solid;
+	padding: 10px;
+}
